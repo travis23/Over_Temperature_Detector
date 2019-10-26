@@ -25,4 +25,4 @@ The project was inspired by the loss of most of the food in a freezer after the 
 * Drill and bits
 
 # Assembly 
-Work in progress
+![Schematic](https://octodex.github.com/images/yaktocat.png)
