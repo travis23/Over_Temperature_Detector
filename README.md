@@ -26,3 +26,4 @@ The project was inspired by the loss of most of the food in a freezer after the 
 
 # Assembly 
 <img src="https://github.com/travis23/Over_Temperature_Detector/blob/master/images/overtemp_schematic.JPG" width="350">
+[[./images/overtemp_schematic.JPG \| height=48px]]
