@@ -25,6 +25,4 @@ The project was inspired by the loss of most of the food in a freezer after the 
 * Drill and bits
 
 # Assembly 
-![Schematic](images/overtemp_schematic.JPG | width=100)
-<img src="https://github.com/travis23/Over_Temperature_Detector/blob/master/images/overtemp_schematic.JPG" width="100">
-[[images/overtemp_schematic.JPG | width=100]]
+<img src="https://github.com/travis23/Over_Temperature_Detector/blob/master/images/overtemp_schematic.JPG" width="300">
