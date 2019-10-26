@@ -102,3 +102,23 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Simulink
+# If old code is restored and built errors may occur. 
+# If errors occur, delete the local slprj and rebuild.
+slprj/
+*_tct/
+*_ert_rtw/
+
+*.autosave
+*.eep
+*.elf
+*.hex
+*.slx.original
+*.slxc
+
+# Pycharm IDE files
+.idea/
+
+# IPython Notebook
+.ipynb_checkpoints
